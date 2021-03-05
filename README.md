@@ -1,16 +1,14 @@
-### Hi there 👋
+## I'm [Christian Jones](https://github.com/therealchjones/)
 
-<!--
-**therealchjones/therealchjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [@therealchjones](https://github.com/therealchjones/), chjones@aleph0.com, [he/him](https://www.mypronouns.org/he-him)
 
-Here are some ideas to get you started:
+I like to find the best ways to fix things. When it comes to computer work, at least, I don't do it for money. I'm not an expert but love to learn and teach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Look through my [repos](https://github.com/therealchjones?tab=repositories) if you wish, but there are a couple of private ones as well. My (current, fleeting, vague, and poorly directed) areas of interest:
+
+- [C#](https://github.com/topics/csharp)
+- [Google Apps](https://github.com/topics/google-apps)/[Google Workspace](https://github.com/topics/google-workspace)/[Gsuite](https://github.com/topics/gsuite) (especially [Google Sheets](https://github.com/topics/google-sheets)) & [Google Apps Script](https://github.com/topics/google-apps-script)
+- [POSIX](https://github.com/topics/posix)
+- [Python](https://github.com/topics/python)
+- [reverse engineering](https://github.com/topics/reverse-engineering) (including [Android](https://github.com/topics/android), [assembly](https://github.com/topics/assembly), [C](https://github.com/topics/c), and [Unity](https://github.com/topics/unity))
+- [Visual Studio Code](https://github.com/topics/vscode)
