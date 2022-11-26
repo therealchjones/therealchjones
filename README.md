@@ -11,3 +11,9 @@ Look through my [repos](https://github.com/therealchjones?tab=repositories) if y
 - [POSIX](https://github.com/topics/posix)
 - [reverse engineering](https://github.com/topics/reverse-engineering) (including [Android](https://github.com/topics/android), [assembly](https://github.com/topics/assembly), [C](https://github.com/topics/c), and [Unity](https://github.com/topics/unity))
 - [Visual Studio Code](https://github.com/topics/vscode)
+
+### Connections
+
+- [Email](mailto:chjones@aleph0.com)
+- [Homepage](https://aleph0.com/~chjones)
+- <a rel="nofollow me" href="https://mastodon.online/@therealchjones">@therealchjones on Mastodon</a>
