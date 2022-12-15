@@ -2,7 +2,7 @@
 
 ### [@therealchjones](https://github.com/therealchjones/), chjones@aleph0.com, [he/him](https://www.mypronouns.org/he-him)
 
-I like to find the best ways to fix things. When it comes to computer work, at least, I don't do it for money. I have very little special training in this field, but I love to learn, to teach, and to help.
+I like to find the best ways to fix things. I love to learn, to teach, and to help.
 
 Look through my [repos](https://github.com/therealchjones?tab=repositories) if you wish. My (current, fleeting, vague, and poorly directed) areas of interest:
 
