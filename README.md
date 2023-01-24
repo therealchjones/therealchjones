@@ -1,8 +1,6 @@
-## I'm [Christian Jones](https://github.com/therealchjones/)
+## I'm [Christian Jones](https://github.com/therealchjones/) ([he/him](https://www.mypronouns.org/he-him))
 
-### [@therealchjones](https://github.com/therealchjones/), chjones@aleph0.com, [he/him](https://www.mypronouns.org/he-him)
-
-I like to find the best ways to fix things. Doing so with software is a hobby rather than a career, but one in which I'm quite invested. I'm not an expert but love to learn and teach.
+I like to find the best ways to fix things.
 
 The below links are mostly for my own reference and are mostly not my own work. Share and enjoy.
 
@@ -17,5 +15,4 @@ The below links are mostly for my own reference and are mostly not my own work. 
   - [URGENT/11](https://www.armis.com/research/urgent11/)
   - [VM setup](https://sites.google.com/a/droboports.com/www/setting-up-a-vm?utm_source=pocket_reader)
 - network communication
-
   - [HTTPbin](https://httpbin.org)
