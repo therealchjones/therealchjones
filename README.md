@@ -1,1 +1,1 @@
-# This account is no longer active and will not be updated.
+Welcome. Have a look around if you wish, but I don't come here often. I mostly just make notes in Gists if I'm looking into something that may be useful to others. If you'd like to reach out, you're more likely to find me on [my Mastodon feed](https://mastodon.online/@therealchjones).
